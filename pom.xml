@@ -33,7 +33,7 @@
         <configuration>
           <!-- Set system properties for environment URL -->
           <systemPropertyVariables>
-            <environment.url>http://example.com</environment.url>
+            <environment.url>https://www.tadigital.com/home</environment.url>
           </systemPropertyVariables>
         </configuration>
       </plugin>
